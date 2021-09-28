@@ -1,0 +1,1 @@
+<div style="display:flex;align-items:center;" markdown="1"><span>🔭</span> I’m currently working on <img height="50px" title="JD" src="https://github.com/sadofriod/sadofriod/blob/master/dist/logo.jpeg" /></div>
