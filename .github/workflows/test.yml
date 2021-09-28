@@ -28,7 +28,7 @@ jobs:
       - name: Restart server # 第三步，重启服务
         uses: appleboy/ssh-action@master
         with:
-          host: 39.105.160.211# 下面三个配置与上一步类似
+          host: 39.105.160.211 # 下面三个配置与上一步类似
           username: root
           key: ${{ secrets.ASHES }}
           # 重启的脚本，根据自身情况做相应改动，一般要做的是migrate数据库以及重启服务器
