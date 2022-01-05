@@ -40,7 +40,7 @@ Nav:
 
 MainFirst:
     name: CaiNiaoLab
-    description: 内蒙古工业大学菜鸟实验室于2017年10月24日成立，“我们将忠于我们所热爱的，为之努力和奋斗”。  
+    description: 内蒙古工业大学菜鸟实验室于2017年10月24日成立,“我们将忠于我们所热爱的，为之努力和奋斗”。  
     pic_url: /images/me.jpg
     goto_ulr: ""
 
