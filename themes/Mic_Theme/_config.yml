@@ -4,9 +4,9 @@
 
 # Head info
 head:
-    favicon: "/img/logo_miccall.png"
+    favicon: "/img/log_cainiaolab.png"
     keywords: miccall
-    backgroundpic : "img/bg.jpg"
+    backgroundpic : "img/flyerone.jpg"
 
 Intro:
     name: MICCALL
@@ -23,7 +23,7 @@ Nav:
     #Social
     # for more icons, please see http://fontawesome.io/icons/#brand
     icon:
-        github: https://github.com/miccall
+        github: https://github.com/CaiNiaoLab
         500px: http://500px.com
         
     pages:
