@@ -5,13 +5,13 @@
 # Head info
 head:
     favicon: "/img/log_cainiaolab.png"
-    keywords: miccall
-    backgroundpic : "img/flyerone.jpg"
+    keywords: CaiNiaoLab MicroIot Grassland
+    backgroundpic : "img/bg.jpg"
 
 Intro:
-    name: MICCALL
-    slogan: "Whatever is worth doing is worth doing well <br/> I'll think of you every step of the way"
-    HeadButton: MICCALL
+    name: CaiNiaoLab
+    slogan: "我们将用保持初心创造属于菜鸟实验室的作品，也许它并不一定伟大和激动，但是我们热爱科学与技术，希望它可以带给世界一些新的东西。——内蒙工工业大学·CaiNiaoLab"
+    HeadButton: CaiNiaoLab
 
 Nav:
     Home_name: 主页
@@ -39,8 +39,8 @@ Nav:
         #   link：“路径”
 
 MainFirst:
-    name: Miccall Metro
-    description: Technical  Artist  of  Games   
+    name: CaiNiaoLab
+    description: 内蒙古工业大学菜鸟实验室于2017年10月24日成立，“我们将忠于我们所热爱的，为之努力和奋斗”。  
     pic_url: /images/me.jpg
     goto_ulr: ""
 
