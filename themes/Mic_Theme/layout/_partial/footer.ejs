@@ -8,3 +8,17 @@
     </div>  
     <% } %>
 </footer>
+
+<div style="display:inline-block">
+    {% if theme.footer.beian.enable %}{#
+    #}  {{ next_url('http://www.miitbeian.gov.cn', theme.footer.beian.icp ) }}
+    {% endif %}
+    </div>
+    
+    <div style="display:inline-block">
+    {% if theme.footer.gongan.enable %}{#
+    #} <span style="padding-left:25px;background:url(/images/beian.png) no-repeat left center" rel="nofollow">
+    {{ next_url('http://www.beian.gov.cn/portal/registerSystemInfo?recordcode='+theme.footer.gongan.num, theme.footer.gongan.local+'公网安备'+theme.footer.gongan.num+'号' ) }}</span>{#
+    #}{% endif %}
+</div>
+    

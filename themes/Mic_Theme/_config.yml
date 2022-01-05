@@ -98,6 +98,19 @@ leancloud:
     app_key: #你的 app_key
     av_core_mini: "https://cdn1.lncld.net/static/js/av-core-mini-0.6.1.js"
 
+footer:
+# Beian icp information for Chinese users. In China, every legal website should have a beian icp in website footer.
+# http://www.miitbeian.gov.cn
+beian:
+  enable: true
+  icp: 蒙ICP备20001414号-1
+
+# 这里是新加的内容，填写公安备案信息
+gongan:
+ enable: true
+ local: 蒙
+ num: 15012102000197
+
 # Busuanzi 不蒜子 Views
 busuanzi:
     enable: true
